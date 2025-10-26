@@ -1,0 +1,11 @@
+D:\users\pc\documents\visual studio 2015\Projects\الساعة و التاريخ\الساعة و التاريخ\bin\Debug\الساعة و التاريخ.exe.config
+D:\users\pc\documents\visual studio 2015\Projects\الساعة و التاريخ\الساعة و التاريخ\bin\Debug\الساعة و التاريخ.exe
+D:\users\pc\documents\visual studio 2015\Projects\الساعة و التاريخ\الساعة و التاريخ\bin\Debug\الساعة و التاريخ.pdb
+D:\users\pc\documents\visual studio 2015\Projects\الساعة و التاريخ\الساعة و التاريخ\bin\Debug\الساعة و التاريخ.xml
+D:\users\pc\documents\visual studio 2015\Projects\الساعة و التاريخ\الساعة و التاريخ\obj\Debug\الساعة و التاريخ.vbprojResolveAssemblyReference.cache
+D:\users\pc\documents\visual studio 2015\Projects\الساعة و التاريخ\الساعة و التاريخ\obj\Debug\الساعة_و_التاريخ.Form1.resources
+D:\users\pc\documents\visual studio 2015\Projects\الساعة و التاريخ\الساعة و التاريخ\obj\Debug\الساعة_و_التاريخ.Resources.resources
+D:\users\pc\documents\visual studio 2015\Projects\الساعة و التاريخ\الساعة و التاريخ\obj\Debug\الساعة و التاريخ.vbproj.GenerateResource.Cache
+D:\users\pc\documents\visual studio 2015\Projects\الساعة و التاريخ\الساعة و التاريخ\obj\Debug\الساعة و التاريخ.exe
+D:\users\pc\documents\visual studio 2015\Projects\الساعة و التاريخ\الساعة و التاريخ\obj\Debug\الساعة و التاريخ.xml
+D:\users\pc\documents\visual studio 2015\Projects\الساعة و التاريخ\الساعة و التاريخ\obj\Debug\الساعة و التاريخ.pdb
